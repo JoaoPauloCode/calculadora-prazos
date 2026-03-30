@@ -51,8 +51,3 @@ Durante o desenvolvimento deste projeto, pratiquei:
 * Interface mais avançada (UI/UX)
 * Transformação em aplicação full stack
 
-## 👨‍💻 Autor
-
-João Paulo Barcelos
-[GitHub](https://github.com/JoaoPauloCode)
-
