@@ -24,7 +24,7 @@ O sistema segue a regra do art. 224 do CPC:
 
 ## Tecnologias utilizadas
 
-* JavaScript (Vanilla)
+* JavaScript
 * HTML5
 * CSS3
 * LocalStorage
